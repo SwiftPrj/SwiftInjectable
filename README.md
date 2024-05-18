@@ -1,2 +1,2 @@
 # SwiftInjectable
-CSGO/CS2 Injectable Client
+CSGO/CS2 Internal Modification
